@@ -1,0 +1,67 @@
+{
+
+  "name":"Ecom Express",
+  "short_name":"Ecom Express",
+  "description":"Ecom Express Ecommerce System",
+  "lang":"en-US",
+  "start_url":"/",
+  "display":"standalone",
+  "orientation":"portrait",
+  "theme_color":"#E54023",
+  "background_color":"#ffffff",
+  "icons": [
+    {
+      "src": "72.png",
+      "sizes": "72x72",
+      "type": "png"
+    },
+    {
+      "src": "96.png",
+      "sizes": "96x96",
+      "type": "png"
+    },
+    {
+      "src": "120.png",
+      "sizes": "120x120",
+      "type": "png"
+    },
+    {
+      "src": "128.png",
+      "sizes": "128x128",
+      "type": "png"
+    },
+    {
+      "src": "144.png",
+      "sizes": "144x144",
+      "type": "ipng"
+    }
+    ,
+    {
+      "src": "152.png",
+      "sizes": "152x152",
+      "type": "png"
+    },
+    {
+      "src": "180.png",
+      "sizes": "180x180",
+      "type": "png"
+    },
+    {
+      "src": "192.png",
+      "sizes": "192x192",
+      "type": "png"
+    },
+    {
+      "src": "384.png",
+      "sizes": "384x384",
+      "type": "png"
+    },
+    {
+      "src": "512.png",
+      "sizes": "512x512",
+      "type": "png"
+    }
+  ]
+  
+  
+  }

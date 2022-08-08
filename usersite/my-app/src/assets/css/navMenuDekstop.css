@@ -1,0 +1,40 @@
+.nav-logo{
+
+    height: 40px;
+    width: 110px;
+   
+}
+.cart-btn{
+    padding: 3px 10px 5px 19px;
+    color: #FAFDFB;
+    border-radius: 16px !important;
+    border:0.5px solid #E43023;
+    background: #E43023 !important;
+    width:110px;
+}
+.search-autocomplete{
+    z-index: 10000;
+    height: 100px;
+    background-color: white;
+  
+}
+.nav-round-btn{
+    background-color: white;
+    color: #000000;
+
+    border-radius: 54% !important;
+    box-shadow: 0 0 4px 0 rgba(57, 78, 234, 0.1)
+}
+.nav-round-btn:hover{
+    background-color: white;
+    border-radius: 52% !important;
+    box-shadow: 0 0 12px 0 rgba(57, 78, 234, 0.1)
+}
+.navbar{
+    font-family: 'Roboto Condensed',sans-serif;
+    font-size:16px;
+    font-weight:300;
+    background-color:white!important;
+    box-shadow:0 0 8px rgba(57,78,234,0.1);
+
+}
