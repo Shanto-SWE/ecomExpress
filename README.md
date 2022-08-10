@@ -4,6 +4,8 @@ This is a simple e-commerce website and also a progressive web app. This applica
 
 A progressive web app (PWA) is a website that looks and behaves as if it is a mobile app. PWAs are built to take advantage of native mobile device features, without requiring the end user to visit an app store, make a purchase and download software locally.
 
+This is a user-friendly application. In this application, users can log in by using their phone number. First of all, users input their phone number then a verification code is sent to their phone via SMS. After the code sends the user will verify their number if verify is success then user can login and buy any product.
+
 
 
 Front-end: React js
