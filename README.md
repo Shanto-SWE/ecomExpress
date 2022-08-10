@@ -14,7 +14,7 @@ Back-end: Laravel
 
 Database: MySQL
 
-## Scenshort of my website
+## Screenshort of my website
 
 ## Home page
 ![home1](https://user-images.githubusercontent.com/68535783/183921940-6a3b37b3-8aae-4778-b062-18ef0e967ba3.png)
